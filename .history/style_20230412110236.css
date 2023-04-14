@@ -1,0 +1,103 @@
+body{
+                    background-image: url(/img/bg.png) #fafafa;
+                   font-family: roboto, sans-serif;
+                   background:#fafafa;
+                   position: relative;
+                   overflow: hidden;
+
+}
+
+html{
+                    height: 100%;
+}
+*{
+                    margin: 0;
+                    padding: 0;
+                    border: 0;
+                    outline: 0;
+                    background: transparent;
+}
+
+.site-btn{
+                    font-size: 14px;
+                    font-weight: 500;
+                    border-radius: 50px;
+                    -webkit-border-radius:50px;
+                    -moz-border-radius:50px
+}
+.wrapper{
+                    margin-top: 60px;
+                    width: 1170px ;
+                    background: transparent;
+}
+.container{
+                    padding-right: 15px;
+                    padding-left: 15px;
+                    margin-right: auto;
+                    margin-left: auto;
+}
+*{
+                    margin: 0;
+                    padding: 0;
+                    border: 0;
+                    outline: 0;
+                    font-size: 100%;
+                    background: transparent;
+}
+.row{
+                    display: flex;
+}
+.col-md-4{
+                    width: 380px;
+                    height: 33.33%;
+}
+
+.profile{
+                    background: #fff;
+                    border-radius: 6px;
+                    -moz-border-radius: 6px;
+                    -webkit-border-radius: 6px;
+                    -o-border-radius: 6px;
+                    width: 100%;
+                    display: inline-block;    
+                    box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.07);
+                    -webkit-box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.07);
+                    -moz-box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.07);
+                }
+                     
+}
+
+.profile .name {
+                    text-transform: uppercase;
+                    font-size: 17px;
+                    font-weight: bold;
+
+}
+.profile .jod {
+                    color: #777777;
+       
+                    font-size: 13px;
+}
+
+.profile-img{
+                   margin-top: -18px; 
+                   -webkit-clip-path: polygon(0 9%, 100% 0, 100% 94%, 0% 100%);
+                    clip-path: polygon(0 9%, 100% 0, 100% 94%, 0% 100%);
+}
+.profile-img img{
+                    width: 100%;
+}
+.tabs{
+                    display: flex;
+                    list-style-type: none;
+                    text-decoration: none;
+                    
+}
+
+.tabs .tab a {
+                    text-decoration: none;
+                    margin: 5px;
+}
+.col-md-4  .pull-right{
+                    text-align: right;
+}

@@ -1,0 +1,16 @@
+body{
+                    background-image: url(/img/bg.png);
+                    color: black;
+                    margin: 0;
+}
+.wrapper{
+                    margin-top: 60px;
+                    width: 1170px ;
+                    background: transparent;
+}
+.container{
+                    padding-right: 15px;
+                    padding-left: 15px;
+                    margin-right: auto;
+                    margin-left: auto;
+}
