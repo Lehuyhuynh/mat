@@ -156,7 +156,7 @@ p{
                     line-height: 24px;
  }
 .row_nowarp{
-    flex-wrap: nowrap;
+    f
 }
  .profile{
                     
@@ -353,9 +353,6 @@ header nav ul li a{
     padding: 0 10px;
     line-height: 73px;
     display: block;
-}
-header nav ul{
-    padding-right: 170px;
 }
 
 header nav ul li a:hover{
@@ -876,7 +873,6 @@ button{
 
 
 footer{
-    width: 850px;
     background-color: #000;
     color: #fff;
     display: flex;

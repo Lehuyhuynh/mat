@@ -155,9 +155,7 @@ p{
                     color: #4c4c4c;
                     line-height: 24px;
  }
-.row_nowarp{
-    flex-wrap: nowrap;
-}
+
  .profile{
                     
                     
@@ -312,7 +310,7 @@ header nav{
     -moz-border-radius: 6px;
     -webkit-border-radius: 6px;
     height: 70px;
-    width: 850px;
+    width: 880px;
     margin-bottom: 30px;
     box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.07);
     -webkit-box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.07);
@@ -324,7 +322,7 @@ a{
 }
 .nav{
     margin-bottom: 30px;
-   
+    margin-left: 15px;
 }
 
 .site-btn.icon i {
@@ -353,9 +351,6 @@ header nav ul li a{
     padding: 0 10px;
     line-height: 73px;
     display: block;
-}
-header nav ul{
-    padding-right: 170px;
 }
 
 header nav ul li a:hover{
@@ -876,7 +871,6 @@ button{
 
 
 footer{
-    width: 850px;
     background-color: #000;
     color: #fff;
     display: flex;

@@ -876,7 +876,8 @@ button{
 
 
 footer{
-    width: 850px;
+    width: 850px
+    ;
     background-color: #000;
     color: #fff;
     display: flex;

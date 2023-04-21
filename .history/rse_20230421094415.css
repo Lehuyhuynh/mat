@@ -120,16 +120,12 @@
                                         margin: 0 auto 30px;
                                         display: table;
                     }
-                    #content{
-                        display: block;
-                    }
                     ul.profile-information li:first-child {
                                         padding-bottom: 10px;
                                         padding-left: 30px;
                     }
                     .service{
                                         margin-top: 20px ;
-                                        width: 250px;
                     }
                     
                     .pull-right {
@@ -141,8 +137,10 @@
                     .skill-list .progress{
                                      width: 600px;   
                     }
-                    
-
+                    .row_section{
+                        display: block;
+                    }
+                    .se
                     footer{
                                         width: 700px;
                                         margin-left: 20px;

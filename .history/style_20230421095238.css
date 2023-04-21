@@ -355,7 +355,7 @@ header nav ul li a{
     display: block;
 }
 header nav ul{
-    padding-right: 170px;
+    padding-right: ;
 }
 
 header nav ul li a:hover{
@@ -876,7 +876,6 @@ button{
 
 
 footer{
-    width: 850px;
     background-color: #000;
     color: #fff;
     display: flex;
